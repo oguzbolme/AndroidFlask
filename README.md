@@ -1,6 +1,6 @@
 # AndroidFlask
 
-Android bir uygulamanın Flask kullanarak bir serveri nasıl kullandığını gösterdiğim temel bir uygulamadır.
+Android uygulamanın Flask'i servis olarak nasıl kullanacağını gösterdiğim temel bir uygulama.
 
 Uyarı: Python dosyasının içerisindeki xxxxxxxx kısmına kendi ip değerinizi yazın. Aynı şekilde Android tarafındaki API sınıfındaki xxxxxxx
 kısmına da ip değerinizi yazınız.
